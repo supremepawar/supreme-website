@@ -1,0 +1,21 @@
+.side-writing{
+
+    background-color: black;
+    height: 300px;
+    color: aliceblue;
+    width: 30rem;
+    margin-left: 65px;
+}
+.side-section{
+    background-color:black;
+    left: 0;
+    position: fixed;
+    top: 0;
+    height: 40px;
+    width: 70px;
+}
+.hi-there{
+    color: aliceblue;
+    font-family:"neon",sans-serif;
+    
+}
